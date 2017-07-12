@@ -1,3 +1,7 @@
+Forking this as a base for an APDS-9660 Python bindings (to be done).
+Found python-apds9930 thanks to Nabaztag and AIY:
+* https://www.hackster.io/bastiaan-slee/nabaztag-gets-a-new-life-with-google-aiy-e9f2c8
+
 # Python bindings for APDS-9930
 Python module for the APDS-9930 I2C Ambient Light and Proximity sensor
 
